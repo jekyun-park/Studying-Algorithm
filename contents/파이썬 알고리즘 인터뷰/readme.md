@@ -8,4 +8,4 @@
 
 ### 4장 
 - [빅오](./chap4/Big-O.md)
-- [자료형]()
+- [자료형](./chap4/data_type.md)
