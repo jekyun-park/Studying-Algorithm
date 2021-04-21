@@ -4,7 +4,7 @@
 
 ## Directory
 
-📦contents
+> 📦contents
  ┣ 📂파이썬 알고리즘 인터뷰
  ┃ ┣ 📂chap4
  ┃ ┃ ┣ 📜.prettierignore
