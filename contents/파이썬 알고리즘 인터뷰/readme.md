@@ -6,11 +6,12 @@
 
 파이썬 알고리즘 인터뷰를 읽고 공부한 것을 정리합니다.
 
-### 4장
+## 4장
 
 - [빅오](./chap4/Big-O.md)
 - [자료형](./chap4/data_type.md)
 
-### 5장
+## 5장
 
 - [리스트](./chap5/List.md)
+- [딕셔너리](./chap5/Dictionary.md)
