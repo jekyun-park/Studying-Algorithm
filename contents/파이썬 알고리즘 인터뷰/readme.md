@@ -10,3 +10,7 @@
 
 - [빅오](./chap4/Big-O.md)
 - [자료형](./chap4/data_type.md)
+
+### 5장
+
+- [리스트](./chap5/List.md)
