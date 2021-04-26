@@ -23,6 +23,8 @@ class Solution:
 
         return True
 
+# 2 Deque
+
 
 class Solution2:
 
