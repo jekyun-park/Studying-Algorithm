@@ -4,6 +4,6 @@
 
 ## LV 1
 
-- [폰켓몬](./programmers/phoneketmon.md)
+- [폰켓몬](./phoneketmon.md)
 
-- [모의고사](./programmers/모의고사.md)
+- [모의고사](./모의고사.md)
